@@ -10,7 +10,6 @@ import triangle.triangle;
 public class test {
 	public triangle tri = new triangle();
 	
-
 	
 	@Test
 	public void testnumber() {
