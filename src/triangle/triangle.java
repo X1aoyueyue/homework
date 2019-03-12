@@ -35,6 +35,7 @@ public class triangle {
 					a = false;
 				else a = true;
 			}
+		
 			else if (wanted >= 5) {
 				wanted -= 5;
 				if(wanted > 3)
