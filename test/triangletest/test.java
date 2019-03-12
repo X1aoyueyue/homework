@@ -11,6 +11,7 @@ public class test {
 	public triangle tri = new triangle();
 	
 
+	
 	@Test
 	public void testnumber() {
 		assertEquals(false,tri.judgement2(-1));
