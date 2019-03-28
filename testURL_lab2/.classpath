@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-9">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/1A03/Downloads/selenium-java-3.9.0/libs/byte-buddy-1.7.9.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/1A03/Downloads/selenium-java-3.9.0/libs/commons-codec-1.10.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/1A03/Downloads/selenium-java-3.9.0/libs/commons-exec-1.3.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/1A03/Downloads/selenium-java-3.9.0/libs/commons-logging-1.2.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/1A03/Downloads/selenium-java-3.9.0/libs/gson-2.8.2.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/1A03/Downloads/selenium-java-3.9.0/libs/guava-23.6-jre.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/1A03/Downloads/selenium-java-3.9.0/libs/httpclient-4.5.3.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/1A03/Downloads/selenium-java-3.9.0/libs/httpcore-4.4.6.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/1A03/Downloads/selenium-java-3.9.0/libs/okhttp-3.9.1.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/1A03/Downloads/selenium-java-3.9.0/libs/okio-1.13.0.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/1A03/Desktop/软件测试/hamcrest-all-1.3.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/1A03/Desktop/软件测试/junit-4.12.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/1A03/Downloads/selenium-java-3.9.0/client-combined-3.9.0.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/1A03/eclipse-workspace/linksql/lib/poi-3.17.jar"/>
+	<classpathentry kind="lib" path="C:/Users/1A03/eclipse-workspace/linksql/lib/poi-ooxml-3.17.jar"/>
+	<classpathentry kind="lib" path="C:/Users/1A03/eclipse-workspace/linksql/lib/poi-ooxml-schemas-3.17.jar"/>
+	<classpathentry kind="lib" path="C:/Users/1A03/Downloads/xmlbeans-bin-3.0.2-20181028/xmlbeans-3.0.2/lib/xbean.jar"/>
+	<classpathentry kind="lib" path="C:/Users/1A03/Downloads/commons-collections4-4.3-bin/commons-collections4-4.3/commons-collections4-4.3.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
